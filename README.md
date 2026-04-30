@@ -1,4 +1,4 @@
 # NMsTool
 a goofy tool
 
-Idrk what to put here
+new Linux ver soon
